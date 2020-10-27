@@ -1,0 +1,10 @@
+body {
+    background-image: url('https://f.i.etsystatic.com/15603701/r/il/c04b14/1591180089/il_794xN.1591180089_ryo0.jpg');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+hr {
+    background-color: #343a40;
+}

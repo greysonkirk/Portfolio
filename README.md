@@ -1,1 +1,1 @@
-the is the portfolio site. 
+the is the beginning of the portfolio site. 

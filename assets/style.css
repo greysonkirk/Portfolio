@@ -8,3 +8,8 @@ body {
 hr {
     background-color: #343a40;
 }
+
+img {
+    width: 250px;
+    height: 250px;
+}

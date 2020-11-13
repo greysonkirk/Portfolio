@@ -10,7 +10,7 @@ Within the site, there are three project links, a github link, a linkedIn link, 
 
 As I become better, so will this site.
 
-![](assets/portfolio.PNG)
+![](img/portfolio.PNG)
 
 
-![](assets/PortAbout.PNG)
+![](img/PortAbout.PNG)

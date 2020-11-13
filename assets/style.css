@@ -13,3 +13,10 @@ img {
     width: 250px;
     height: 250px;
 }
+
+#icon {
+    font-size: larger;
+    display: block;
+    margin-top: 3rem;
+    color: black;
+}

@@ -20,3 +20,9 @@ img {
     margin-top: 3rem;
     color: black;
 }
+
+#resume:link {
+    color: lightgrey;
+    background-color: transparent;
+    text-decoration: none;
+}

@@ -1,6 +1,6 @@
 # Portfolio Site
-- Repository link: https://github.com/greysonkirk/WeatherApp
-- Web App link:  https://greysonkirk.github.io/WeatherApp/
+- Repository link: https://github.com/greysonkirk/Portfolio
+- Web App link:  https://greysonkirk.github.io/Portfolio/
 
 The purpose of this site is to showcase not only my skills, but projects I have been working on throughout the course.
 

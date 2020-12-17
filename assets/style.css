@@ -17,7 +17,7 @@ img {
 #icon {
     font-size: larger;
     display: block;
-    margin-top: 3rem;
+    margin-top: 5%;
     color: black;
 }
 
@@ -25,4 +25,14 @@ img {
     color: lightgrey;
     background-color: transparent;
     text-decoration: none;
+}
+
+.carousel-control-prev {
+    color: gray;
+    font-weight: bold;
+}
+
+.carousel-control-next {
+    color: gray;
+    font-weight: bold;
 }
